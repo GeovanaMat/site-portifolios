@@ -1,9 +1,11 @@
+
 .mainlayout {
-    background-color: rgb(164, 195, 201);
+    background-color: #DDEB9D;
     display: flex;
     align-items: center;
 }
 
 .textMenu {
     font-size: 30px;
+    font
 }
